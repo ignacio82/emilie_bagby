@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Dr. Emilie Bagby"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - icon: file-earmark-person
+        text: CV
+        href: Ignacio-Martinez-CV.pdf
+        target: _blank
+      - text: "{{< ai google-scholar >}} Google Scholar"
+        href: https://scholar.google.com/citations?user=mktJXM8AAAAJ
+        target: _blank        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+editor: visual
