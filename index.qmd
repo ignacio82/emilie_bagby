@@ -62,13 +62,6 @@ listing:
     *   Low- and Middle-Income Countries (LMICs)
     *   Extensive experience in Africa, Central America, and Asia
 
-### Selected Projects:
-
-*   **Millennium Challenge Corporation (MCC) - Morocco:** Leading an RCT impact evaluation of a secondary education activity focused on improving graduate employability.
-*   **Millennium Challenge Corporation (MCC) - Côte d'Ivoire:** Directing an impact evaluation of a lower secondary education activity aimed at increasing access and quality, particularly for girls.
-*   **Millennium Challenge Corporation (MCC) - Morocco:**  Directing an evaluation of a workforce development activity focused on improving employability through training and labor market system improvements.
-*   **USAID - Senegal Lecture Pour Tous:** Principal Investigator for the Rapid Feedback MERL engagement, utilizing rapid cycle evaluation to improve early grade reading program implementation.
-*   **USAID - Various Countries:** Led multiple evaluations of education activities (RCTs and qualitative research) in Nicaragua, Cambodia, India, Tajikistan, and Timor-Leste, and Niger.
 
 ### Skills and Background:
 
@@ -76,3 +69,12 @@ listing:
 *   **Languages:** Fluent in French and Spanish
 *   **Learning Partner Approach:** Excels at collaborating with stakeholders to identify meaningful research questions and translate data into actionable insights.
 *   **Data Expertise:** Proficient in utilizing secondary data and managing primary data collection for rigorous evaluations.
+
+
+### Selected Projects:
+
+*   **Millennium Challenge Corporation (MCC) - Morocco:** Leading an RCT impact evaluation of a secondary education activity focused on improving graduate employability.
+*   **Millennium Challenge Corporation (MCC) - Côte d'Ivoire:** Directing an impact evaluation of a lower secondary education activity aimed at increasing access and quality, particularly for girls.
+*   **Millennium Challenge Corporation (MCC) - Morocco:**  Directing an evaluation of a workforce development activity focused on improving employability through training and labor market system improvements.
+*   **USAID - Senegal Lecture Pour Tous:** Principal Investigator for the Rapid Feedback MERL engagement, utilizing rapid cycle evaluation to improve early grade reading program implementation.
+*   **USAID - Various Countries:** Led multiple evaluations of education activities (RCTs and qualitative research) in Nicaragua, Cambodia, India, Tajikistan, and Timor-Leste, and Niger.
