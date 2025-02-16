@@ -15,7 +15,7 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:emiliebagby@gmail.com
+      href: mailto:emilie@bagby.fyi
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/emilie-bagby-1737851/
